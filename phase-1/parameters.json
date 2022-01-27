@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      "adminUsername": {
+        "value": "alfran"
+      },
+      "remoteAllowedCIDR": {
+        "value": "*"
+      },
+      "adminPasswordOrKey": {
+        "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCYpEu2Qxv4KB2IbXIUhwaptIMrR5TvRy8R3TpeCmhHReQZnCqCP6TUpNkcOUV2bpb8BIjwhWJpsihc47i67Q760ZCtLAkRCEdXQj8Z5MFpe4NHunTsnpUI+fc5qgediPMWaVWDtyC0y1ognDX84ACrmNRb6tQ1sBGj0gWe4WNI3elNJNZQmSPfcjGc4i4jxKKo3W70cxNiwhiFm11tIdufJvE1zVLTYFQGNNEdltoiECp7UdFHdDWStGM8nZvpjIQoOzCTRS0ZOEKkhAuYRUVYzfxhohlFBksCfzh3VtDVEliNSTl4C3Cyta0MxGO/ZKnshct0K+Y4zT7HDIFsVTYZbdYpayJXH6pbpWV6PDFE2uxZUk5C0uZri4zVg9KbKAD+8JlMeucmNqbsmOd39S4cfqLKOHnbmJIUWN/0cGCLMvy81BAG/Wr+JGiRxDNei/V1Bp7vpMmQf1RdZmLhB+nyOM2QLvV3W84sx9Lfgu1Ljb/EZM/iQLohsB6QNVHtioYBScIKxQH9amgDU8J1oOWsmn+KTcFi1YNPcs8BG8NDC+8vS+vFNTuDGeLfO0xZfuezabethSHpa1OSvrXXQfqjUAGv1HB8dU8rRFjawaI/VrNBmL06Xbwj5VOXa2iKg0GanckTM8TXGhyDQZC1iQTq2ekF2jfVBqOJ1YJYEi3ifw== adotfrank@alex-mbp"
+      }
+    }
+  }
